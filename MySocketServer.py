@@ -5,7 +5,8 @@
 
 import socket
 import threading
-from datetime import time
+
+import time
 
 
 def tcplink(sock, addr):
